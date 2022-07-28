@@ -1,0 +1,7 @@
+{
+    "name": "ampersand/replace-magento-composer-dependency-version-audit-plugin",
+    "description": "Replace magento/composer-dependency-version-audit-plugin",
+    "replace": {
+        "magento/composer-dependency-version-audit-plugin": "*"
+    }
+}
